@@ -65,7 +65,7 @@ ANT OS o'rnatish vaqtida sizga quyidagi operatsion xavfsizlik (OPSEC) darajalari
 ### 🚀 O'rnatish qadamlari:
 1. Repozitoriyani klonlang:
    ```bash
-   git clone [https://github.com/sizning_nik/ant-os.git](https://github.com/sizning_nik/ant-os.git)
+   git clone [[https://github.com/sizning_nik/ant-os.git](https://github.com/VIPOS-testuser/ANTOS.git)]([https://github.com/sizning_nik/ant-os.git](https://github.com/VIPOS-testuser/ANTOS.git))
    cd ant-os
    ```
 2. O'rnatish skriptiga ruxsat bering:
