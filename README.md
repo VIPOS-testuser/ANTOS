@@ -54,29 +54,41 @@ ANT OS o'rnatish vaqtida sizga quyidagi operatsion xavfsizlik (OPSEC) darajalari
 
 ---
 
+## 🛠 O‘rnatish va Ishga Tushirish (Installation)
 
-## 🛠 O'rnatish va Ishga tushirish (Installation)
+Defender minimal resurslarda ishlashga mo‘ljallangan bo‘lib, tezkor va xavfsiz ishga tushiriladi.
 
-### 📋 Talablar:
-* Kamida 512MB RAMga ega kompyuter.
-* 1GB yoki undan katta flashka.
-* Linux o'rnatilgan asosiy kompyuter (O'rnatish uchun).
+### 📋 Tizim Talablari:
+* Kamida **512 MB RAM** ga ega kompyuter
+* **1 GB yoki undan katta** USB Flash qurilma
+* O‘rnatish uchun **Linux o‘rnatilgan asosiy kompyuter**
 
-## 🛠 O'rnatish va Ishga tushirish (Installation)
-
-### 🚀 O'rnatish qadamlari:
-1. Repozitoriyani klonlang:
-   `[git clone https://github.com/sizning_nik/ant-os.git](https://github.com/VIPOS-testuser/ANTOS.git)`
-   `cd ant-os`
-
-2. O'rnatish skriptiga ruxsat bering:
-   `sudo chmod +x install.sh`
-
-3. Installerni ishga tushiring:
-   `sudo ./install.sh`
-
-*Installer sizdan flashka raqamini, maxfiylik darajasini va ishga tushuvchi .sh skriptingiz yo'lini so'raydi.*
 ---
+
+### 🚀 O‘rnatish Qadamlari:
+
+1. **Repozitoriyani klonlash:**
+   ```bash
+   git clone https://github.com/sizning_nik/ant-os.git  
+   cd ant-os
+   ```
+3. **O‘rnatish skriptiga ruxsat berish:**
+   ```bash 
+   sudo chmod +x install.sh
+   ```
+5. **Installerni ishga tushirish:**
+   ```bash
+   sudo ./install.sh
+   ```
+⚠️ **Eslatma:**  
+O‘rnatish jarayonida installer sizdan:
+* USB flash qurilmani tanlash
+* Maxfiylik (security) darajasini belgilash
+* Avtomatik ishga tushiriladigan `.sh` skript yo‘lini ko‘rsatish  
+talab qiladi.
+
+---
+
 
 ## 📜 Axloqiy Chegara va Mas'uliyat (Disclaimer)
 
