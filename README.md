@@ -69,8 +69,8 @@ Defender minimal resurslarda ishlashga mo‘ljallangan bo‘lib, tezkor va xavfs
 
 1. **Repozitoriyani klonlash:**
    ```bash
-   git clone https://github.com/sizning_nik/ant-os.git  
-   cd ant-os
+   git clone https://github.com/VIPOS-testuser/ANTOS.git
+   cd ANTOS
    ```
 3. **O‘rnatish skriptiga ruxsat berish:**
    ```bash 
