@@ -70,9 +70,17 @@ Defender minimal resurslarda ishlashga mo‘ljallangan bo‘lib, tezkor va xavfs
 1. **Repozitoriyani klonlash:**
    ```bash
    git clone https://github.com/VIPOS-testuser/ANTOS.git
-   cd ANTOS
    ```
-3. **O‘rnatish skriptiga ruxsat berish:**
+2. **UnZip qilish:**
+   ```bash
+   unzip ant.zip -d ANTOS
+   ```
+3. **ANTOS papkasi ichiga kirish:**
+   ```bash
+      cd ANTOS
+   ```
+   
+4. **O‘rnatish skriptiga ruxsat berish:**
    ```bash 
    sudo chmod +x install.sh
    ```
