@@ -77,7 +77,7 @@ Defender minimal resurslarda ishlashga mo‘ljallangan bo‘lib, tezkor va xavfs
    ```
 3. **ANTOS papkasi ichiga kirish:**
    ```bash
-      cd ANTOS
+      cd ANTOS/ant/
    ```
    
 4. **O‘rnatish skriptiga ruxsat berish:**
