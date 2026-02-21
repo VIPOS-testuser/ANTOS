@@ -82,11 +82,11 @@ Defender minimal resurslarda ishlashga mo‘ljallangan bo‘lib, tezkor va xavfs
    
 4. **O‘rnatish skriptiga ruxsat berish:**
    ```bash 
-   sudo chmod +x install.sh
+   sudo chmod +x installer.sh
    ```
 5. **Installerni ishga tushirish:**
    ```bash
-   sudo ./install.sh
+   sudo ./installer.sh
    ```
 ⚠️ **Eslatma:**  
 O‘rnatish jarayonida installer sizdan:
